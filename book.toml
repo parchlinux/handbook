@@ -1,0 +1,6 @@
+[book]
+authors = ["Sohrab Behdani"]
+language = "fa"
+multilingual = false
+src = "src"
+title = "کتابچه راهنمای پارچ لینوکس"
